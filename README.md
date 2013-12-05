@@ -8,7 +8,7 @@ Material that will make you a better (R) programmer and practical data scientist
 
 * [Books](https://github.com/tudo-r/RProgramming/wiki/Books)
 
-* [Articles](https://github.com/tudo-r/RProgramming/wiki/Article)
+* [Articles](https://github.com/tudo-r/RProgramming/wiki/Articles)
 
 TODOs:
 
